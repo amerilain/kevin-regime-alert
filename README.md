@@ -1,5 +1,10 @@
 # Kevin Regime Alert Bot 🤖🚨
 
+![BTC](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/btc.svg)
+![ETH](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/eth.svg)
+![SOL](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/sol.svg)
+![F&G](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/fng.svg)
+![Regime](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/regime.svg)
 Event-driven Telegram alerts for **crypto market regime changes**.
 
 No noise. Only signal — alerts fire **only** when the market regime changes.
