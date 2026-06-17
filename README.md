@@ -80,6 +80,13 @@ python3 regime-alert-bot.py --status
 
 Most market bots send hourly updates regardless of whether anything changed. This creates notification fatigue. **Regime Alert Bot** respects the attention economy — it only interrupts you when the classification shifts.
 
+<!-- KEVIN_TOOLBOX -->
+<p align="center">
+  <a href="https://amerilain.github.io/kevin-tools/">
+    <img src="https://img.shields.io/badge/🗂️_Kevin's_Toolbox-Explore_All_Tools-0052CC?style=for-the-badge&logo=github" alt="Kevin's Toolbox">
+  </a>
+</p>
+
 ## License
 
 MIT
